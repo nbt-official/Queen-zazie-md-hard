@@ -1,0 +1,52 @@
+{
+
+"BOT_NAME": "ZAZIE-MD",
+"VERSION": "2.0.0",
+"CREATED BY": "NBTMADHUSITH",
+  
+"replyMsg": {
+  
+  "giveme": "*මොකක් හරි type කරපිය යකෝ, උඹ හිතන දේ මන් හිතන්න මාව කවුරු වගේද පේන්නෙ 😑😒*",
+
+  "giveut": "*Link එකක් හරි Text එකක් හරි දීපිය 😒*",
+
+  "not_fo": "*❌ I Couldn't find anything :(*",
+
+  "url": "*Link එකක් දීපන් 😐*",
+  
+  "valid_url": "*This Url is invalid ❌ Please give me valid Url ❗*",
+
+  "size_big": "*File size is too big ❌*",
+
+  "own_cmd": "*This is Owner Commad ‼*",
+
+  "pre_cmd": "`Your not premium user` 🚫\n\n* Contact to buy a premium connection for Rs.100  for a month 😐😋\n\n* https://wa.me/94721384388?text=𝐆𝐞𝐭_𝐏𝐫𝐞𝐦𝐢𝐮𝐦_𝐔𝐬𝐞𝐫_𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧👾",
+
+  "ald_set": "*Already set* 🙂✅",
+
+  "only_gp": "This is group command ❗",
+
+  "inb_cmd": "This is inbox command ❗",
+
+  "give_adm": "Admin දීලා ඉදපන් 😓",
+
+  "you_adm": "Your Must Be Admin First 😒",
+
+  "need_jid": "Please give me jid ❓",
+
+  "valid_jid": "*This not jid ❌ Please give me valid jid ❗*",
+
+  "ald_approve_jid": "Jid approve accept ✔",
+
+  "ald_approve_alljid": "All Jid approve accept ✔",
+
+  "ald_reapprove_jid": "Jid approve reject ✔",
+
+  "ald_reapprove_alljid": "All Jid approve reject ✔",
+
+  "band_users": "❌ *You are banned from using Commands.....*\n\n*_Please contact QUEEN-ZAZIE-MD Bot Owner Remove your Ban_* 👨‍🔧\n",
+
+  "erro": "Error" 
+}
+
+}
